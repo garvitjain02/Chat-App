@@ -14,6 +14,8 @@ A simple chat application using Node.js, Express, and WebSockets for real-time c
 3. Access the Client:
    - Open a web browser and navigate to `http://localhost:8000/`.
    - You can open multiple tabs to simulate multiple clients.
+   - Write your name and PRESS ENTER
+   - Continue Chatting
 
 ### Prerequisites
 - Node.js installed on your machine.
